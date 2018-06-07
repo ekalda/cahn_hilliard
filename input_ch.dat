@@ -1,0 +1,14 @@
+{
+  "a": 0.1,
+  "b": 0.1,
+  "M": 0.1,
+  "k": 0.1,
+  "x dim": 50,
+  "y dim": 50,
+  "dx": 1,
+  "dt": 0.1,
+  "phi0": 0.0,
+  "animate": "False",
+  "measure free energy": "True",
+  "data file": "measurement_data\\f_sim3.txt"
+}
